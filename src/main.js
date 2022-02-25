@@ -13,7 +13,7 @@ for (i = 0; i <= 5; i++){
 
 // Pedir un número por prompt, repetir la salida del mensaje “Hola” la cantidad de veces ingresada.
 
-//const nVeces = Number(prompt('Ingresar un número:'));
+const nVeces = Number(prompt('Ingresar un número:'));
 i = 0;
 
 while(i < nVeces){
